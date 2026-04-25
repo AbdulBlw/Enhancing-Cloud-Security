@@ -1,4 +1,5 @@
-# Enhancing Cloud Security Using Machine Learning, Deep Learning, and Blockchain Logging
+# Enhancing Cloud Security through Deep Learning-Based Architecture of Intrusion Detection and
+Blockchain-Enabled Tamper-Proof Logging
 
 This repository contains a Jupyter notebook for an experimental cloud-security intrusion-detection study. The notebook evaluates classical machine learning, deep learning, adversarial robustness, explainability, and blockchain-style audit logging using standard network intrusion detection datasets.
 
