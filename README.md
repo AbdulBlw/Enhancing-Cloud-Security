@@ -10,7 +10,7 @@ The main goal is to enhance cloud security by building and evaluating intrusion 
 - Cross-dataset intrusion detection using NSL-KDD, CICIDS2017, and UNSW-NB15.
 - Binary and attack-family classification.
 - Robustness testing under noisy and adversarial conditions.
-- Explainable AI using SHAP visualizations.
+- Explainable Learning using SHAP visualizations.
 - Deep learning training analysis using accuracy and loss curves.
 - Blockchain-style logging for prediction integrity and auditability.
 - Final benchmark comparison under a consistent experimental protocol.
